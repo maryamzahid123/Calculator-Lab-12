@@ -1,0 +1,26 @@
+Addition
+
+a = 1;
+b = 5;
+a + b;
+
+Subtraction
+
+a = 2;
+b = 4;
+a - b;
+
+Multiplication
+
+a = 8;
+b = 6;
+a * b;
+
+Division
+
+a = 8;
+b = 2;
+a\b; 
+
+
+
