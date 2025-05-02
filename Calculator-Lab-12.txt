@@ -10,3 +10,11 @@ a = 2;
 b = 4;
 a - b;
 
+Multiplication
+
+a = 8;
+b = 6;
+a * b;
+
+
+
